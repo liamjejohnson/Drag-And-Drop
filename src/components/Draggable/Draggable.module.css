@@ -1,0 +1,10 @@
+.box {
+  margin: 8px;
+}
+
+.text {
+  padding: 8px;
+  color: darkblue;
+  background-color: white;
+  border-radius: 3px;
+}

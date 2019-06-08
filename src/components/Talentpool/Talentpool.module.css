@@ -1,0 +1,15 @@
+.container {
+  background-color: darkblue;
+  width: 250px;
+  height: 400px;
+  margin: 32px;
+  border: 20px;
+}
+
+.wrapper {
+  width: 100%;
+  padding: 32px;
+  display: flex;
+  justify-content: center;
+  background-color: darkblue;
+}
